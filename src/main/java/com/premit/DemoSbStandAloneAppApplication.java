@@ -8,7 +8,7 @@ public class DemoSbStandAloneAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoSbStandAloneAppApplication.class, args);
-		System.out.println("Hello to Java Developers");
+		System.out.println("Welcome to PREMIT.");
 	}
 
 }
